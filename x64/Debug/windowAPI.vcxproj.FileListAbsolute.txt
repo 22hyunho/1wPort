@@ -1,0 +1,18 @@
+C:\Users\eldorado\Desktop\준포폴준비\불렛패턴연구\20210528_0\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\드래곤볼 슈팅\슈팅게임 포트폴리오\x64\Debug\windowAPI.exe
+C:\Users\admin\OneDrive\바탕 화면\포폴진행\슈팅게임 포트폴리오\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\에너미매니저만들기\포폴진행\슈팅게임 포트폴리오\x64\Debug\windowAPI.exe
+C:\Users\admin\OneDrive\바탕 화면\준포폴0607\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\준포폴0607\x64\Debug\windowAPI.exe
+C:\Users\admin\OneDrive\바탕 화면\Desktop (1)\에너미 상태별클래스\x64\Debug\windowAPI.exe
+C:\Users\admin\OneDrive\바탕 화면\준포폴스\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\준포폴0608\준포폴0608\x64\Debug\windowAPI.exe
+C:\Users\admin\OneDrive\바탕 화면\준포폴0609\준포폴0609\x64\Debug\windowAPI.exe
+C:\Users\admin\OneDrive\바탕 화면\준포폴0609\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\준포폴0609\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\준포폴0610\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\보스이미지고민\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\보스총알삭제\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\준포폴오늘\준포폴0611\보스총알삭제\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\준포폴오늘\준포폴0611\준포폴0612\x64\Debug\windowAPI.exe
+C:\Users\eldorado\Desktop\준포폴0614\준포폴초기완성\준포폴0612\x64\Debug\windowAPI.exe
